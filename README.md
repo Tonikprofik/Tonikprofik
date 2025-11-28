@@ -1,29 +1,53 @@
-# 🔥 Ahooj
+# Tony Thai Do 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="200"/>
-  <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="200"/>
-</div>
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="100" align="right"/>
 
-<div id="metabadge" align="center">
-<img src="https://komarev.com/ghpvc/?username=Tonikprofik&style=flat-square&color=blue" alt=""/>
-</div>
+**Software Engineer** in Copenhagen 🇩🇰  
+AI/ML • Cloud Operations • Web
 
-## 🍣 I work with:
+Building observable AI systems and GitOps infrastructure.  
+Fan of avoiding vendor lock in, and keeping cloud bills sane.
 
-<p id="tech">  
-<img src="https://github.com/devicons/devicon/blob/master/icons/jamstack/jamstack-original.svg" title="JAMstack" alt="JAMstack" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="80" height="80"/>
+*MSc Medialogy — Thesis: "When LLMs Lie: Building Observable LLMOps for EU Legislative RAG"*
+
+---
+
+### 🔧 What I'm building
+
+| Project | What |
+|---------|------|
+| [gitops-k8s-payloadcms](https://github.com/Tonikprofik/gitops-k8s-payloadcms) | ArgoCD + K8s + Terraform on Hetzner (€4/mo > $70/mo AWS) |
+| [ML-NLP-BERT-finetune](https://github.com/Tonikprofik/ML-NLP-BERT-finetune-SentimentAnalysis) | BERT fine-tuning for sentiment analysis |
+| 🔒 EU Contract Analyzer | LangGraph agents + Langfuse observability + RAG |
+
+---
+
+### 🛠️ Stack
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="40" title="Terraform/OpenTofu"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" title="Azure"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonikprofik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![Tonikprofik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonikprofik&count_private=true&theme=radical)
- 
+### ☁️ Azure Certified
+
+**AI-102** AI Engineer • **AZ-500** Security • **AZ-104** Administrator
+
+---
+
+### 📊
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tonikprofik&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonikprofik&layout=compact&hide_border=true" width="40%"/>
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/-tony--thai--do-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tony-thai-do)
+[![Twitter](https://img.shields.io/badge/-@Tonikprofik-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Tonikprofik)
