@@ -6,9 +6,10 @@
 AI/ML • Cloud Operations • Web
 
 Building observable AI systems and GitOps infrastructure.  
-Fan of avoiding vendor lock in, and keeping cloud bills sane.
+Alaways learning. Fan of avoiding vendor lock in, and keeping cloud bills sane. 
+Currently into OpenTofu, Talos Linux, and agentic AI.
 
-*MSc Medialogy — Thesis: "When LLMs Lie: Building Observable LLMOps for EU Legislative RAG"*
+*MSc Medialogy - Thesis: "When LLMs Lie: Building Observable LLMOps for EU Legislative RAG"*
 
 ---
 
@@ -26,9 +27,11 @@ Fan of avoiding vendor lock in, and keeping cloud bills sane.
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" title="React"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="40" title="Terraform/OpenTofu"/>
