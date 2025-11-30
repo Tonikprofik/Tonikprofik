@@ -19,7 +19,7 @@ Currently into OpenTofu, Talos Linux, and agentic AI.
 |---------|------|
 | [gitops-k8s-payloadcms](https://github.com/Tonikprofik/gitops-k8s-payloadcms) | ArgoCD + K8s + Terraform on Hetzner (€4/mo > $70/mo AWS) |
 | [ML-NLP-BERT-finetune](https://github.com/Tonikprofik/ML-NLP-BERT-finetune-SentimentAnalysis) | BERT fine-tuning for sentiment analysis |
-| 🔒 EU Contract Analyzer | ollama vLLM LiteLLM Langchain, LangGraph agent + Langfuse observability + RAG |
+| [EU Clause Extractor](https://github.com/Tonikprofik/eu-clause-extractor) | RAG pipeline ollama vLLM LiteLLM Langchain, LangGraph agent + Langfuse observability |
 | [Observable Command Control HITL RAG](https://github.com/Tonikprofik/arctic-trace-watch)| TypeScipt Serverless Supabase Hackaton CPH November 2025 
 
 ---
